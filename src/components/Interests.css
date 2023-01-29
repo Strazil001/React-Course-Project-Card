@@ -1,0 +1,15 @@
+.interests-container {
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #cdd6f4;
+}
+
+.interests--header {
+    padding-bottom: 5px;
+    font-size: 1.0em;
+    font-weight: 500;
+}
+
+.interests--paragraph {
+    font-size: 0.8em;
+}

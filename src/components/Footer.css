@@ -1,0 +1,10 @@
+.social-container {
+    height: 50px;
+    margin: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    color: #9399b2;
+    font-size: 1.4em;
+}
